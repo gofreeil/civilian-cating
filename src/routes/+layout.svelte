@@ -36,7 +36,7 @@
 </script>
 
 <svelte:head>
-	<title>קהילה בשכונה</title>
+	<title>דירוג ציבורי</title>
 	<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 	<!-- tabnav: מושבת לבינתיים — לא רשום על הדומיין הנוכחי -->
 	<!-- <script src="https://widget.tabnav.com/widget.min.js.gz" defer></script> -->

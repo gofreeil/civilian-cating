@@ -1,8 +1,8 @@
 import { register, init, getLocaleFromNavigator } from 'svelte-i18n';
 
 register('he', () => Promise.resolve({
-    welcome: "קהילה בשכונה",
-    app_description: "כל יתרונות השכונה תחת קורת גג אחת",
+    welcome: "דירוג ציבורי",
+    app_description: "העם מדרג את הרשויות ועובדי הציבור",
     hello: "שלום",
     greeting: "שלום,",
     logout: "התנתקות",
@@ -213,8 +213,8 @@ register('he', () => Promise.resolve({
 }));
 
 register('en', () => Promise.resolve({
-    welcome: "Neighborhood Community",
-    app_description: "All neighborhood advantages under one roof",
+    welcome: "Civic Rating",
+    app_description: "The public rates authorities and civil servants",
     hello: "Hello",
     greeting: "Hello,",
     logout: "Logout",
@@ -412,8 +412,8 @@ register('en', () => Promise.resolve({
 }));
 
 register('ru', () => Promise.resolve({
-    welcome: "Сообщество района",
-    app_description: "Все преимущества района под одной крышей",
+    welcome: "Гражданский рейтинг",
+    app_description: "Народ оценивает власти и государственных служащих",
     hello: "Привет",
     greeting: "Привет,",
     logout: "Выйти",
