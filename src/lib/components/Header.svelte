@@ -175,9 +175,9 @@
                     >
                         <div class="relative">
                             <img
-                                src="/images/logos/לוגו2.png"
+                                src="/images/דירוג ציבורי.jpeg"
                                 alt=""
-                                class="h-10 w-10 object-contain flex-shrink-0"
+                                class="h-10 w-10 object-contain flex-shrink-0 rounded-lg"
                             />
                             <div
                                 class="hidden absolute -top-1 -right-1 w-2.5 h-2.5 bg-green-500 rounded-full border-2 border-slate-900 animate-pulse"
@@ -271,9 +271,9 @@
                         class="flex h-20 w-20 animate-pulse-slow items-center justify-center rounded-xl shadow-lg transition-transform hover:scale-105"
                     >
                         <img
-                            src="/images/logos/לוגו2.png"
+                            src="/images/דירוג ציבורי.jpeg"
                             alt=""
-                            class="h-16 w-auto object-contain"
+                            class="h-16 w-auto object-contain rounded-xl"
                         />
                     </a>
                     <!-- Tooltip - Below Logo -->
