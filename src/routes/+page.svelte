@@ -15,7 +15,7 @@
                 </div>
             </div>
             <!-- כותרת מרוכזת -->
-            <div class="text-center py-10">
+            <div class="text-center py-10 pb-64">
                 <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
                     נבחרי הציבור המדורגים ביותר
                 </h2>
