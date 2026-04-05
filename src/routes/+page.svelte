@@ -3,9 +3,12 @@
     <!-- קומה ראשונה: נבחרי ציבור -->
     <section>
         <div class="text-center mb-8">
-            <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
-                נבחרי הציבור המדורגים ביותר
-            </h2>
+            <div class="flex items-center justify-center gap-4 mb-3">
+                <h2 class="text-3xl md:text-4xl font-black text-white">
+                    נבחרי הציבור המדורגים ביותר
+                </h2>
+                <img src="/images/דירוג ציבורי.jpeg" alt="דירוג ציבורי" class="h-12 w-12 object-contain rounded-lg flex-shrink-0" />
+            </div>
             <p class="text-amber-400 text-lg font-bold">
                 מיועדים לפרס השנה עבור פעילותם לטובת העם
             </p>
