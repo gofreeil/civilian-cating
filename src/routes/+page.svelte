@@ -2,16 +2,23 @@
 
     <!-- קומה ראשונה: נבחרי ציבור -->
     <section>
-        <div class="text-center mb-8">
-            <div class="flex items-center justify-center gap-4 mb-3">
-                <h2 class="text-3xl md:text-4xl font-black text-white">
+        <div class="flex items-center gap-6 mb-8">
+            <!-- תמונה בצד ימין -->
+            <img
+                src="/images/דירוג ציבורי.jpeg"
+                alt="דירוג ציבורי"
+                class="h-36 w-36 object-cover rounded-2xl flex-shrink-0 shadow-2xl"
+                style="border: 2px solid rgba(255,255,255,0.15); box-shadow: 0 0 30px rgba(99,102,241,0.25);"
+            />
+            <!-- טקסט -->
+            <div>
+                <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
                     נבחרי הציבור המדורגים ביותר
                 </h2>
-                <img src="/images/דירוג ציבורי.jpeg" alt="דירוג ציבורי" class="h-12 w-12 object-contain rounded-lg flex-shrink-0" />
+                <p class="text-amber-400 text-lg font-bold">
+                    מיועדים לפרס השנה עבור פעילותם לטובת העם
+                </p>
             </div>
-            <p class="text-amber-400 text-lg font-bold">
-                מיועדים לפרס השנה עבור פעילותם לטובת העם
-            </p>
         </div>
 
         <div class="bg-white/5 border border-white/10 rounded-2xl p-6">
