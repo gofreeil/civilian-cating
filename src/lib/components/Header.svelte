@@ -175,7 +175,7 @@
                     >
                         <div class="relative">
                             <img
-                                src="/images/דירוג ציבורי.jpeg"
+                                src="/images/דירוג ציבורי  לוגו.png"
                                 alt=""
                                 class="h-10 w-10 object-contain flex-shrink-0 rounded-lg"
                             />
@@ -271,7 +271,7 @@
                         class="flex h-20 w-20 animate-pulse-slow items-center justify-center rounded-xl shadow-lg transition-transform hover:scale-105"
                     >
                         <img
-                            src="/images/דירוג ציבורי.jpeg"
+                            src="/images/דירוג ציבורי  לוגו.png"
                             alt=""
                             class="h-16 w-auto object-contain rounded-xl"
                         />
