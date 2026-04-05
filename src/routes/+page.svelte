@@ -15,21 +15,18 @@
             <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6">
                 {#each [1,2,3,4,5] as i}
                     <div class="flex flex-col items-center gap-3">
-                        <!-- אווטר עגול -->
                         <div class="w-20 h-20 rounded-full bg-white/10 border-2 border-dashed border-white/20 flex items-center justify-center text-gray-500 text-3xl">
                             👤
                         </div>
-                        <!-- שם -->
                         <p class="text-gray-400 text-sm font-bold">נבחר ציבור #{i}</p>
-                        <!-- כוכבים -->
-                        <div class="flex gap-0.5 text-amber-400 text-lg">
-                            ★★★★★
-                        </div>
-                        <!-- דירוג -->
+                        <div class="flex gap-0.5 text-amber-400 text-lg">★★★★★</div>
                         <p class="text-gray-500 text-xs">טרם דורג</p>
                     </div>
                 {/each}
             </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="/top-rated" class="text-blue-400 hover:text-blue-300 text-sm font-bold transition-colors">לדף המלא ←</a>
         </div>
     </section>
 
@@ -49,13 +46,14 @@
                             👤
                         </div>
                         <p class="text-gray-400 text-sm font-bold">חבר כנסת #{i}</p>
-                        <div class="flex gap-0.5 text-amber-400 text-lg">
-                            ★★★★★
-                        </div>
+                        <div class="flex gap-0.5 text-amber-400 text-lg">★★★★★</div>
                         <p class="text-gray-500 text-xs">טרם דורג</p>
                     </div>
                 {/each}
             </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="/knesset" class="text-blue-400 hover:text-blue-300 text-sm font-bold transition-colors">לדף המלא ←</a>
         </div>
     </section>
 
@@ -75,17 +73,18 @@
                             👤
                         </div>
                         <p class="text-gray-400 text-sm font-bold">שופט #{i}</p>
-                        <div class="flex gap-0.5 text-amber-400 text-lg">
-                            ★★★★★
-                        </div>
+                        <div class="flex gap-0.5 text-amber-400 text-lg">★★★★★</div>
                         <p class="text-gray-500 text-xs">טרם דורג</p>
                     </div>
                 {/each}
             </div>
         </div>
+        <div class="text-center mt-4">
+            <a href="/judges" class="text-blue-400 hover:text-blue-300 text-sm font-bold transition-colors">לדף המלא ←</a>
+        </div>
     </section>
 
-    <!-- קומה שלישית: דירוג עובדי ציבור -->
+    <!-- קומה רביעית: דירוג עובדי ציבור -->
     <section>
         <div class="text-center mb-8">
             <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
@@ -101,13 +100,14 @@
                             👤
                         </div>
                         <p class="text-gray-400 text-sm font-bold">עובד ציבור #{i}</p>
-                        <div class="flex gap-0.5 text-amber-400 text-lg">
-                            ★★★★★
-                        </div>
+                        <div class="flex gap-0.5 text-amber-400 text-lg">★★★★★</div>
                         <p class="text-gray-500 text-xs">טרם דורג</p>
                     </div>
                 {/each}
             </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="/public-servants" class="text-blue-400 hover:text-blue-300 text-sm font-bold transition-colors">לדף המלא ←</a>
         </div>
     </section>
 
