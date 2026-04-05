@@ -1168,14 +1168,6 @@
             </div>
         {/if}
 
-        <!-- Decoration -->
-        <div
-            class="hidden md:block absolute bottom-4 right-4 bg-purple-600/90 backdrop-blur-md text-white px-4 py-1.5 rounded-full text-xs font-bold shadow-lg"
-        >
-            {viewMode === "map"
-                ? `📍 מפת הקהילה - ${neighborhoodState.neighborhood}, ${neighborhoodState.city}`
-                : "📋 רשימת שירותים"}
-        </div>
 
         <!-- כפתור חיפוש - פינה ימנית עליונה -->
         <div class="absolute right-4 z-50" style="top: -14px;">

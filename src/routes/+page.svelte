@@ -11,7 +11,7 @@
                         alt="דירוג ציבורי"
                         class="h-48 md:h-96 w-auto object-contain rounded-2xl md:rounded-3xl"
                     />
-                    <div class="absolute inset-0 rounded-2xl md:rounded-3xl" style="box-shadow: inset 0 0 80px 40px #0f172a;"></div>
+                    <div class="absolute inset-0 rounded-2xl md:rounded-3xl" style="box-shadow: inset 0 0 30px 10px #0f172a;"></div>
                 </div>
             </div>
             <!-- כותרת -->
