@@ -7,7 +7,7 @@
             <img
                 src="/images/דירוג ציבורי.jpeg"
                 alt="דירוג ציבורי"
-                class="h-36 w-36 object-cover rounded-2xl flex-shrink-0 shadow-2xl"
+                class="h-52 w-auto object-contain rounded-2xl flex-shrink-0 shadow-2xl"
                 style="border: 2px solid rgba(255,255,255,0.15); box-shadow: 0 0 30px rgba(99,102,241,0.25);"
             />
             <!-- טקסט -->
