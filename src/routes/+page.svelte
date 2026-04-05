@@ -18,4 +18,11 @@
         </h2>
     </section>
 
+    <!-- קומה שלישית: דירוג עובדי ציבור -->
+    <section class="text-center py-10">
+        <h2 class="text-3xl md:text-4xl font-black text-white mb-3">
+            דירוג עובדי ציבור
+        </h2>
+    </section>
+
 </div>
