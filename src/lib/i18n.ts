@@ -1,7 +1,7 @@
 import { register, init, getLocaleFromNavigator } from 'svelte-i18n';
 
 register('he', () => Promise.resolve({
-    welcome: "מבקר רשויות המדינה",
+    welcome: "דירוג ציבורי",
     app_description: "העם מדרג את הרשויות ועובדי הציבור",
     hello: "שלום",
     greeting: "שלום,",
@@ -213,7 +213,7 @@ register('he', () => Promise.resolve({
 }));
 
 register('en', () => Promise.resolve({
-    welcome: "State Authority Inspector",
+    welcome: "Civic Rating",
     app_description: "The public rates authorities and civil servants",
     hello: "Hello",
     greeting: "Hello,",
@@ -412,7 +412,7 @@ register('en', () => Promise.resolve({
 }));
 
 register('ru', () => Promise.resolve({
-    welcome: "Инспектор государственных органов",
+    welcome: "Гражданский рейтинг",
     app_description: "Народ оценивает власти и государственных служащих",
     hello: "Привет",
     greeting: "Привет,",
