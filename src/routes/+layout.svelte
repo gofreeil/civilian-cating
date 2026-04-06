@@ -36,7 +36,7 @@
 </script>
 
 <svelte:head>
-	<title>דירוג ציבורי</title>
+	<title>מבקר רשויות המדינה</title>
 	<link rel="icon" href="/images/דירוג ציבורי.jpeg" type="image/jpeg" />
 	<!-- tabnav: מושבת לבינתיים — לא רשום על הדומיין הנוכחי -->
 	<!-- <script src="https://widget.tabnav.com/widget.min.js.gz" defer></script> -->
