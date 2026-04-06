@@ -24,9 +24,9 @@
         </div>
 
         <div class="bg-white/5 border border-white/10 rounded-2xl p-3 md:p-6">
-            <div class="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-5 gap-3 md:gap-6">
+            <div class="flex flex-wrap justify-center gap-3 md:grid md:grid-cols-5 md:gap-6">
                 {#each [1,2,3,4,5] as i}
-                    <div class="flex flex-col items-center gap-2 md:gap-3">
+                    <div class="flex flex-col items-center gap-2 md:gap-3 w-[30%] md:w-auto">
                         <div class="w-14 h-14 md:w-20 md:h-20 rounded-full bg-white/10 border-2 border-dashed border-white/20 flex items-center justify-center text-gray-500 text-2xl md:text-3xl">
                             👤
                         </div>
@@ -51,9 +51,9 @@
         </div>
 
         <div class="bg-white/5 border border-white/10 rounded-2xl p-3 md:p-6">
-            <div class="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-5 gap-3 md:gap-6">
+            <div class="flex flex-wrap justify-center gap-3 md:grid md:grid-cols-5 md:gap-6">
                 {#each [1,2,3,4,5] as i}
-                    <div class="flex flex-col items-center gap-2 md:gap-3">
+                    <div class="flex flex-col items-center gap-2 md:gap-3 w-[30%] md:w-auto">
                         <div class="w-14 h-14 md:w-20 md:h-20 rounded-full bg-white/10 border-2 border-dashed border-white/20 flex items-center justify-center text-gray-500 text-2xl md:text-3xl">
                             👤
                         </div>
@@ -78,9 +78,9 @@
         </div>
 
         <div class="bg-white/5 border border-white/10 rounded-2xl p-3 md:p-6">
-            <div class="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-5 gap-3 md:gap-6">
+            <div class="flex flex-wrap justify-center gap-3 md:grid md:grid-cols-5 md:gap-6">
                 {#each [1,2,3,4,5] as i}
-                    <div class="flex flex-col items-center gap-2 md:gap-3">
+                    <div class="flex flex-col items-center gap-2 md:gap-3 w-[30%] md:w-auto">
                         <div class="w-14 h-14 md:w-20 md:h-20 rounded-full bg-white/10 border-2 border-dashed border-white/20 flex items-center justify-center text-gray-500 text-2xl md:text-3xl">
                             👤
                         </div>
@@ -105,9 +105,9 @@
         </div>
 
         <div class="bg-white/5 border border-white/10 rounded-2xl p-3 md:p-6">
-            <div class="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-5 gap-3 md:gap-6">
+            <div class="flex flex-wrap justify-center gap-3 md:grid md:grid-cols-5 md:gap-6">
                 {#each [1,2,3,4,5] as i}
-                    <div class="flex flex-col items-center gap-2 md:gap-3">
+                    <div class="flex flex-col items-center gap-2 md:gap-3 w-[30%] md:w-auto">
                         <div class="w-14 h-14 md:w-20 md:h-20 rounded-full bg-white/10 border-2 border-dashed border-white/20 flex items-center justify-center text-gray-500 text-2xl md:text-3xl">
                             👤
                         </div>
