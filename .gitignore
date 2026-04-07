@@ -32,3 +32,5 @@ community.db-wal
 
 # Windows null device
 nul
+
+.vercel
