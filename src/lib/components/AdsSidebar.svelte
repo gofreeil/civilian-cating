@@ -55,7 +55,7 @@
             target="_blank"
             rel="noopener noreferrer"
             aria-label="הגמ&quot;ח הארצי – אתר את העזרה הדרושה לך (נפתח בחלון חדש)"
-            class="block overflow-hidden rounded-lg shadow-lg transition-transform hover:scale-105 group relative"
+            class="block overflow-hidden rounded-lg shadow-lg transition-transform hover:scale-105 group relative ring-1 ring-purple-500/40"
         >
             <div class="relative overflow-hidden">
                 <img
@@ -75,7 +75,7 @@
                     </div>
                 </div>
             </div>
-            <div class="bg-gradient-to-r from-green-700 to-emerald-600 p-3 text-center">
+            <div class="bg-gradient-to-r from-pink-600 via-fuchsia-600 to-purple-700 p-3 text-center">
                 <p class="text-white font-bold text-xs leading-tight">הגמ"ח הארצי – כל הגמחים תחת קורת גג אחת</p>
             </div>
         </a>
