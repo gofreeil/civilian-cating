@@ -1135,7 +1135,7 @@
                             <p class="text-sm">הקלד מה אתה מחפש</p>
                         </div>
                         <div class="flex justify-center mt-3">
-                            <img src="/images/ועדי שכונות חיפוש.png" alt="" class="max-w-[320px] w-full rounded-xl opacity-80" />
+                            <img src="/images/vaadei-search.png" alt="" class="max-w-[320px] w-full rounded-xl opacity-80" />
                         </div>
                     {:else if searchResults().length === 0}
                         <div class="text-center py-12 text-gray-500">

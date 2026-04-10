@@ -17,7 +17,7 @@
             <div class="flex justify-center mb-4 md:mb-6">
                 <div class="relative inline-block">
                     <img
-                        src="/images/דירוג ציבורי.jpeg"
+                        src="/images/public-rating.jpeg"
                         alt="דירוג ציבורי"
                         class="h-48 md:h-96 w-auto object-contain rounded-2xl md:rounded-3xl"
                     />

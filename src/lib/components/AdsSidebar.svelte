@@ -18,14 +18,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/בתי הפיוס.png"
+                    src="/images/bati-hapius.png"
                     alt="בתי הפיוס"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/בתי הפיוס.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/bati-hapius.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -59,14 +59,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/הגמח הארצי.png"
+                    src="/images/hagemach-haartzi.png"
                     alt="הגמח הארצי"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/הגמח הארצי.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/hagemach-haartzi.png'); background-size: cover; background-position: center;"
                 >
                     <div class="absolute inset-0 bg-black/60 backdrop-blur-sm"></div>
                     <div class="relative z-10 text-center px-4">
@@ -90,14 +90,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/news/ועדי שכונות.png"
+                    src="/images/news/vaadei-shchunot.png"
                     alt="ועדי שכונות"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay with blurred background -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/news/ועדי שכונות.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/news/vaadei-shchunot.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -172,14 +172,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/partners/השקעות קבוצתיות.png"
+                    src="/images/partners/investments.png"
                     alt="השקעות קבוצתיות"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/partners/השקעות קבוצתיות.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/partners/investments.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -213,14 +213,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/partners/מערכת לגידול ביתי.png"
+                    src="/images/partners/growing-system.png"
                     alt="מערכת לגידול ביתי"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/partners/מערכת לגידול ביתי.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/partners/growing-system.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -255,14 +255,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/בעלי מקצוע כשירים.png"
+                    src="/images/professionals.png"
                     alt="מחפש בעל מקצוע איכותי באזורך?"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/בעלי מקצוע כשירים.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/professionals.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -295,14 +295,14 @@
         >
             <div class="relative overflow-hidden">
                 <img
-                    src="/images/ביקורת על העיריה.png"
+                    src="/images/bikoret-iriya.png"
                     alt="ביקורת על העיריה"
                     class="h-auto w-full object-cover transition-opacity duration-1500 group-hover:opacity-0"
                 />
                 <!-- Hover overlay -->
                 <div
                     class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-1500 flex items-center justify-center"
-                    style="background-image: url('/images/ביקורת על העיריה.png'); background-size: cover; background-position: center;"
+                    style="background-image: url('/images/bikoret-iriya.png'); background-size: cover; background-position: center;"
                 >
                     <div
                         class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -337,7 +337,7 @@
                 style="height: 180px;"
             >
                 <img
-                    src="/images/סיוע לנפגעים.png?v=4"
+                    src="/images/support-victims2.png"
                     alt="סיוע לנפגעים מינית"
                     class="h-full w-full object-contain transition-opacity duration-1500 group-hover:opacity-0"
                 />
